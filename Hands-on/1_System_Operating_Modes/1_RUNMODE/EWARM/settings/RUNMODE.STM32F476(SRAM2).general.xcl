@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armstlink2.dll" 
+
+"D:\SVN\TOMASPROJ\STM32L4_Workshop\trunk\1_System_Operating_Modes\1_RUNMODE\EWARM\STM32F476(SRAM2)\Exe\RUNMODE Configuration.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\ST\STM32L4xx.dmac" 
+
+
+
+

@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armstlink2.dll" 
+
+"C:\Test\1_System_Operating_Modes\6_LONGTERM_LOGGER_STANDBY_SRAM2\EWARM\LONGTERM_LOGGER_STANDBY_SRAM2 Configuration\Exe\LONGTERM_LOGGER_STANDBY_SRAM2 Configuration.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\ST\STM32L4xx.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\flashloader\ST\FlashSTM32L4xxxG.board" 
+
+
+
+

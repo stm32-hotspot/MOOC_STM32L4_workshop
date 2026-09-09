@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armstlink2.dll" 
+
+"C:\Users\martin hubik\Desktop\MH\MOOC+trainings\STM32L4_Workshop\STM32L4_Workshop_V1.4\HandsOn\3_Tips_and_Tricks\Finished_Tips_and_tricks_v10_IAR\4_CompilerSettings\EWARM\AudioPlayer\Exe\AudioPlayer.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\ST\STM32L4xx.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\flashloader\ST\FlashSTM32L4xxxG.board" 
+
+
+
+
